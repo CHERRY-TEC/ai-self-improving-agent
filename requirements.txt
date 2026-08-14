@@ -1,0 +1,15 @@
+# AI Self-Improving Agent
+# Core dependencies
+python>=3.10
+
+# Optional: For using real LLM APIs
+# openai>=1.0.0
+# anthropic>=0.18.0
+
+# Built-in modules used (no install needed):
+# - ast (syntax checking)
+# - time (benchmarking)
+# - json (logging)
+# - shutil (backups)
+# - math (test cases)
+# - pathlib (file handling)
